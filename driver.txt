@@ -1,0 +1,10 @@
+ion,10,23
+maria,11,24
+coste,100,145
+macu,87,14
+ionica,14,15
+bogdan,77,99
+gabi,66,55
+sofita,34,67
+ilie,23,98
+moromete,90,100
